@@ -1,0 +1,30 @@
+*{
+   padding:0;
+   margin:0;
+   box-sizing:border-box;
+   font-family: 'Open Sans', sans-serif;
+}
+
+body{
+  background-image:url('../img/62394d753859943e6a1a36443ef78795.gif');
+  background-size:cover;
+
+}
+
+.container{
+  margin-top: 20px;
+  border:1px solid blue;
+  border-radius:15px;
+  background-color:rgba(255, 255, 255, 0.7);
+  opacity:0.8;
+}
+
+
+.container:hover{
+   opacity:1;
+}
+
+
+
+
+
